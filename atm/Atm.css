@@ -1,0 +1,206 @@
+body{
+	background-color: lightgrey;
+
+}
+.container-fluid{
+      background-color: white;
+
+    }
+    .logo{
+    	width: 250px;
+    	height: 75px;
+    	margin: 0px 0px 0px 20px;
+    }
+    .nav-item{
+    	margin: 0px 0px 0px 50px;
+    	text-align: center;
+
+
+    }
+    .nav-item:hover{
+    	background-color: red;
+    	height: 75px;
+    	width: 150px;
+    	
+    }
+   .branch{
+        /*background-image: url(bg.jpg);*/
+        background-color: lightgrey;
+        height: 150px;
+
+
+    }
+    h1{
+        color: blue;
+        font-size: 40px;
+        padding-top: 20px;
+        padding-left: 40px;
+
+    }
+    .breadcrumb-item{
+        padding-left: 40px;
+    }
+    .banneryt{ width: 20px;
+     height: 20px;
+  
+      float: right; 
+      margin: 10px ;
+       }
+.bannerfb{ width: 20px; 
+    height: 20px; 
+    
+    float: right; 
+    margin: 10px ; 
+}
+.bannertw{ width: 20px;
+ height: 20px;
+  
+  float: right; margin: 10px ; 
+}
+.accordion{
+  margin-top: 30px;
+  margin-left: 40px;
+}
+.col{
+  color: white; 
+}
+.low{
+  background-color: #2C2B30;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.line{
+  height:5px;
+  border-width:0
+  ;color:white;
+  background-color:gray;
+}
+.nope{
+      color: blue;
+
+    }
+    
+    
+   
+.card1{
+  background-color: #1B1D75;
+  margin-top:30px;
+
+}
+.card-title1{
+  color: white;
+}
+.card-text{
+  color: white;
+}
+.can{
+  color: white;
+}
+.card3{
+  
+  margin-top:30px;
+
+}
+   .read{
+   
+  color: blue;
+  text-decoration: none;
+}
+.readmore{
+    position: absolute;
+    /*left: 47%;*/
+    background-color: white;
+    border-radius: 30px;
+    padding: 5px 16px 5px 16px;
+}
+.readmore:hover{
+background-color:grey; 
+color: yellow;
+
+}
+.col{
+  color: white; 
+}
+.low{
+  background-color: #2C2B30;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.below{
+  background-color:#2C2B30; 
+}
+.line{
+  height:5px;
+  border-width:0
+  ;color:white;
+  background-color:gray;
+}
+.card{
+    margin-top: 30px;
+
+}
+
+.text-muted{
+  padding: 10px;
+  text-decoration: none;
+}
+.cla{
+  text-decoration: none;
+}
+.card1{
+  background-color: #1B1D75;
+  margin-top:30px;
+
+}
+.card-title1{
+  color: white;
+}
+.card-text{
+  color: white;
+}
+.can{
+  color: white;
+}
+.card3{
+  
+  margin-top:30px;
+
+}
+.readmore{
+  position: absolute;
+  /*left: 47%;*/
+  background-color: white;
+  border-radius: 30px;
+  padding: 5px 16px 5px 16px;
+}
+
+.read{
+  color: blue;
+  text-decoration: none;
+}
+.readmore:hover{
+background-color:grey; 
+color: yellow;
+
+}
+.col{
+  color: white; 
+}
+.low{
+  background-color: #2C2B30;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+.below{
+  background-color:#2C2B30; 
+}
+.line{
+  height:5px;
+  border-width:0
+  ;color:white;
+  background-color:gray;
+}
